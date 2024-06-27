@@ -3,7 +3,6 @@ import { useState,useEffect } from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-
 import pfp from '../assests/img/pfp.jpeg';
 import linkedin from "../assests/img/nav-icon1.svg";
 import github from "../assests/img/github.svg";
